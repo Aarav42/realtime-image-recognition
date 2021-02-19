@@ -1,4 +1,4 @@
-heading{
+.heading{
     font-size: 23px;
     width: 100%;
     margin: 0px;
@@ -15,6 +15,7 @@ heading{
 }
 .heading_div2{
     font-size:18px;
+    text-align: center;
 }
 .result_para_tag{
     box-shadow: 5px 5px 5px grey;
